@@ -18,12 +18,14 @@ Suggests:
     rmarkdown,
     rnaturalearth,
     rnaturalearthdata,
-    testthat,
+    testthat (>= 3.0.0),
     viridisLite,
     visreg,
     plyr,
     DHARMa,
-    tibble
+    tibble, 
+	covr, 
+	DT
 VignetteBuilder: 
     knitr
 Encoding: UTF-8
@@ -32,3 +34,4 @@ LazyDataCompression: xz
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 BugReports: https://github.com/agruss2/gamutils/issues
+Config/testthat/edition: 3

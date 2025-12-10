@@ -10,6 +10,6 @@
 modefunc <- function( x ) {
 
 	a <- table( x )
-  	names( a[a == max( a )] )
+  names( a[a == max( a )] )
 
 }
