@@ -8,8 +8,8 @@ library(devtools)
 install_github("agruss2/gamutils", dependencies = TRUE)
 ```
 
-You can also install the development version of gamutils from
-[GitHub](https://github.com/), if your prefer, with:
+You can also install the development version of gamutils, if your
+prefer, with:
 
 ``` r
 # install.packages("pak")
