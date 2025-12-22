@@ -10,8 +10,8 @@ mode_factor(x)
 \item{x}{categorical variable of interest.}
 }
 \value{
-the mode of a categorical variable
+The mode of a categorical variable.
 }
 \description{
-This function computes the mode of a categorical variable
+This function computes the mode of a categorical variable.
 }

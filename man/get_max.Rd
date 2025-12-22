@@ -7,11 +7,11 @@
 get_max(x)
 }
 \arguments{
-\item{x}{vector interest}
+\item{x}{vector of interest}
 }
 \value{
-the maximum element from the vector of interest
+The maximum element from the vector of interest.
 }
 \description{
-This function finds the maximum element from a vector
+This function finds the maximum element from a vector.
 }

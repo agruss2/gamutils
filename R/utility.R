@@ -1,10 +1,10 @@
 #' @title Mode of a categorical variable
 #'
-#' @description This function computes the mode of a categorical variable
+#' @description This function computes the mode of a categorical variable.
 #'
 #' @param x categorical variable of interest.
 #'
-#' @return the mode of a categorical variable
+#' @return The mode of a categorical variable.
 #'
 #' @export
 mode_factor <- function( x ) {
@@ -16,11 +16,11 @@ mode_factor <- function( x ) {
 
 #' @title Maximum element from a vector
 #'
-#' @description This function finds the maximum element from a vector
+#' @description This function finds the maximum element from a vector.
 #'
-#' @param x vector interest
+#' @param x vector of interest
 #'
-#' @return the maximum element from the vector of interest
+#' @return The maximum element from the vector of interest.
 #'
 #' @export
 get_max <- function( x ) {
